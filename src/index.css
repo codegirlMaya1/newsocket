@@ -1,0 +1,39 @@
+body {
+  background-color: #f0f8ff;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: yellow;
+  color: #ff8c00; /* Dark Orange */
+  margin-bottom: 20px;
+  border: #ff8c00 solid 5px;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+  color: #ff8c00 !important; /* Dark Orange */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff8c00; /* Dark Orange */
+}
+
+.btn-primary, .btn-danger {
+  background-color: #ff8c00;
+  border-color: yellow;
+  color: black; 
+}
+
+.btn-primary:hover, .btn-danger:hover {
+  background-color: #ffdd44;
+  border-color: #ffdd44;
+}
+
+.container {
+  padding-top: 70px; /* Adjust this value based on the Navbar height */
+}
+.btn{
+  background-color: #ff8c00;
+  color: black;
+}

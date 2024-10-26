@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/index.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/websocket.ts","./src/components/navbar.tsx","./src/components/tabs.tsx","./src/pages/home.tsx","./src/pages/location.tsx","./src/pages/randomnumber.tsx","./src/pages/search.tsx","./src/pages/traffic.tsx"],"version":"5.6.3"}
